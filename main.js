@@ -1,1 +1,9 @@
-//Use this file as a template, add your own code below
+/*
+Write some code here
+*/
+
+var number=prompt('What is the number to translate?');
+
+/*
+Write some code here
+*/
